@@ -1,11 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<a href="https://github.com/brennoe">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=brennoe" />
-</a>
-<a href="https://github.com/brennoe">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brennoe&layout=compact&langs_count=8&card_width=320" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brennoe&show_icons=true&theme=radical)
 
 <!--
 - 🔭 I’m currently working on ...
